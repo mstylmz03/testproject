@@ -1,0 +1,5 @@
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\ServiceLocator\bin\Debug\ServiceLocator.dll
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\ServiceLocator\bin\Debug\ServiceLocator.pdb
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\ServiceLocator\obj\Debug\ServiceLocator.dll
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\ServiceLocator\obj\Debug\ServiceLocator.pdb
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\ServiceLocator\obj\Debug\ServiceLocator.csprojResolveAssemblyReference.cache

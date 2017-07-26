@@ -1,0 +1,49 @@
+﻿@model WebProjectMvc_DOMAIN.Data.Entities.Product
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <div>
+            @if (ViewBag.IsSuccess != null && ViewBag.IsSuccess == true)
+            {
+                <label>Basarili </label>
+            }
+            else if (ViewBag.IsSuccess != null && ViewBag.IsSuccess == false)
+            {
+                <label>Basarisiz</label>
+            }
+        </div>
+        @using (Html.BeginForm("Add", "Product", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken();
+            @Html.ValidationSummary(false);
+
+            @Html.LabelFor(x => x.ProductName);
+            @Html.TextBoxFor(x => x.ProductName);
+            <br />
+            @Html.LabelFor(x => x.Stock);
+            @Html.TextBoxFor(x => x.Stock);
+            <br />
+            @Html.LabelFor(x => x.UnitPrice);
+            @Html.TextBoxFor(x => x.UnitPrice);
+            <br />
+            <select name="CategoryID">
+                @foreach (var item in ViewBag.Categories)
+                {
+                    <option value="@item.ID"> @item.CategoryName </option>
+                }
+            </select>
+            <input type="submit" name="name" value="Ürün Ekle" />
+        }
+    </div>
+</body>
+</html>

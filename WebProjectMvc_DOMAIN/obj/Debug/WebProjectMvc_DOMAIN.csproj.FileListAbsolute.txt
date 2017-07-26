@@ -1,0 +1,6 @@
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\bin\Debug\WebProjectMvc_DOMAIN.dll.config
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\bin\Debug\WebProjectMvc_DOMAIN.dll
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\bin\Debug\WebProjectMvc_DOMAIN.pdb
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\obj\Debug\WebProjectMvc_DOMAIN.csprojResolveAssemblyReference.cache
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\obj\Debug\WebProjectMvc_DOMAIN.dll
+C:\Users\mst__\Desktop\DOMAİNDRİVENDESİNG\WebProjectMvcSharing_SOLUTION\WebProjectMvc_DOMAIN\obj\Debug\WebProjectMvc_DOMAIN.pdb
