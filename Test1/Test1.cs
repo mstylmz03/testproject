@@ -43,10 +43,11 @@ namespace Test1
             Assert.IsTrue(products.Any(x => x.ID == 1));
 
         }
-
-        public void trial2()
+        [Test]
+        public void TestInsert()
         {
-
+            productrepo.Insert(new Product() { ID = 213412 });
+            Assert.IsTrue(products.Any(x => x.ID == 213412));
         }
 
     }
